@@ -76,7 +76,7 @@ Grace a ce projet j'ai pu nourrir mes connaissance ainsi qu'exploré d'autres ma
 ```
 
 
-#		## BENELKADI Safouane El-Amine ##
+#		## BENELKADI Safouane ##
 
 
 
